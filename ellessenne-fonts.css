@@ -1,0 +1,17 @@
+body {
+  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  -webkit-font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  -moz-font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6, .remark-slide-number {
+  font-weight: normal;
+}
+
+.remark-code, .remark-inline-code {
+  font-family: monospace;
+}
